@@ -24,7 +24,7 @@ st.write('''<style>
 
 
 
-st.write('''<br><br><br><center><font color = "#0000ff" size = 5>KUMPULAN ARTIKEL (JURNAL & PROSIDING): APLIKASI PARTIAL LEAST SQUARES STRUCTURAL EQUATION MODELING (PLS-SEM)<br> DENGAN VARIABEL HARGA SAHAM SEBAGAI VARIABEL ENDOGEN</font></center>
+st.write('''<br><br><br><center><font color = "#0000ff" size = 5>KUMPULAN ARTIKEL (JURNAL & PROSIDING): APLIKASI PARTIAL LEAST SQUARES STRUCTURAL EQUATION MODELING (PLS-SEM)<br> DENGAN VARIABEL HARGA SAHAM SEBAGAI VARIABEL ENDOGEN</font><br><font color = 'red'>Artikel Terkumpul Sebanyak 3 Artikel</font></center>
 
 
 
